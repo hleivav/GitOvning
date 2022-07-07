@@ -6,7 +6,8 @@
     public  class Hernan
     {
          public int Id { get; set; }
-        //10:53
+        //10:53 
+        // denna tid inte korrekt bör ändras! till nyvarande tid datum! / PATrick 
 
      
     }
