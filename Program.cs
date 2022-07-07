@@ -21,7 +21,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "patrick, patrick, hernan,hernan ", // ändrat text test för master
+    name: "default ", // tog bort namnen och ändrade till default
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
