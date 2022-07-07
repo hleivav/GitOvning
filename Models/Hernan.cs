@@ -1,11 +1,11 @@
-﻿ GitOvning.Models
+﻿ namespace GitOvning.Models
 {
 
     // ändring hämtad Patrick! 
     // tagit bort text bör läggas till.. 
-    public  Hernan
+    public  class Hernan
     {
-         int Id { get; set; }
+         public int Id { get; set; }
      
     }
 }
