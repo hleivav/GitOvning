@@ -21,7 +21,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "Patrick",
+    name: "Patrick",//hernan sista - 11:22
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
