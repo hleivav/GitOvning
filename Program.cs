@@ -22,6 +22,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default ", // tog bort namnen och ändrade till default
+    name: "Patrick",//hernan sista - 11:22
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+//Test

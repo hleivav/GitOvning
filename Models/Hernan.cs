@@ -1,4 +1,4 @@
-﻿ namespace GitOvning.Models
+﻿namespace GitOvning.Models
 {
 
     // ändring hämtad Patrick! 
@@ -6,6 +6,11 @@
     public  class Hernan
     {
          public int Id { get; set; }
-     
+         public int time { get; set; } // lade till detta 
+        
+         
     }
+
+    
+      
 }
